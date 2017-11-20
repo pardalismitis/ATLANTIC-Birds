@@ -22,6 +22,10 @@ For some localities, it is possible to investigate temporal dynamics of bird spe
 (historical vs. current records). In addition, it is interesting to foster conservation strategies in this biodiversity 
 hotspot.
 
+<p align="center"> 
+<img src="https://github.com/LEEClab/ATLANTIC-Birds/blob/master/figure.jpg">
+</p>
+
 The dataset accompanies our Data Paper to be published in Ecology:  
 
 Hasui, E. , J. P. Metzger., R. G. Pimentel., L. F. Silveira., A. A. A. Bovo, A. C. Martensen, A. Uezu, 
