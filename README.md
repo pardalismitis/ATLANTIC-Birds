@@ -45,7 +45,7 @@ Title: ATLANTIC BIRDS: a dataset of bird species from the Brazilian Atlantic For
 
 ATLANTIC_BIRDS_species.csv, ATLANTIC_BIRDS_refs.csv, ATLANTIC_BIRDS_quantitative.csv, and ATLANTIC_BIRDS_qualitative.csv.
 
-### C. Data set description
+### C. Data set description:
 The dataset is restricted to the Brazilian Atlantic Forest, whose limits was defined by Ribeiro et al. (2009), 
 and covers tropical and subtropical forests in Brazil. It is composed of 183,814 avian records 
 (150,423 of occurrence data and 33,119 that include abundances) from four main sources: museum collections, 
@@ -55,7 +55,7 @@ represent unpublished reports, mostly environmental consulting studies. The year
 from 1815 to 2017. We catalogued 4,122 localities that include 832 bird species, 66 of which are endangered and 
 54 are near threatened. 
 
-## Principal Investigators:
+## Principal Investigators
 
 Érica Hasui  
 Universidade Federal de Alfenas (UNIFAL-MG), Instituto de Ciências da Natureza, Rua Gabriel Monteiro da Silva, 700, 
